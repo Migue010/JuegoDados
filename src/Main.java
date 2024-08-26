@@ -34,6 +34,7 @@ public class Main {
 
         System.out.println("El dado uno tiene: " + dado1 + " Victorias");
         System.out.println("El dado dos tiene: " + dado2 + " Victorias");
+        System.out.println("BIEN JUGADO!!!");
 
 
     }
